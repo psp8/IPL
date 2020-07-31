@@ -33,6 +33,7 @@ npm install
 **6: Prepare data**
 
 ```
+npm run generate-data
 npm run ipl
 ```
 

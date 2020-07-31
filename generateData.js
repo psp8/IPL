@@ -5,7 +5,8 @@ const won = require("./ipl/won");
 const economy = require("./ipl/economy");
 const MostRuns = require("./ipl/MostRuns");
 
-
+const MATCHES_FILE_PATH = "./csv_data/matches.csv";
+const DELIVERIES_FILE_PATH = "./csv_data/deliveries.csv";
 
 function main() {
     csv()
