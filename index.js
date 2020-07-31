@@ -1,12 +1,6 @@
-const fs = require("fs");
 const express = require('express');
 const csv = require("csvtojson");
-const matchesPlayedPerYear = require("./ipl/matchesPlayedPerYear");
-const won = require("./ipl/won");
 const extraRuns = require("./ipl/extraRuns");
-const economy = require("./ipl/economy");
-const MostRuns = require("./ipl/MostRuns");
-
 const app = express();
 
 app.use(express.static('public'));
