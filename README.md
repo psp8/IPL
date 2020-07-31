@@ -45,7 +45,7 @@ npm run start
 
 **8: Visualize results on your browser**
 
-Open http://127.0.0.1:8080
+Open http://127.0.0.1:3000
 
 ---
 
