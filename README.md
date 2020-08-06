@@ -34,13 +34,12 @@ npm install
 
 ```
 npm run generate-data
-npm run ipl
 ```
 
 **7: Start server**
 
 ```
-npm run start
+npm run ipl
 ```
 
 **8: Visualize results on your browser**
